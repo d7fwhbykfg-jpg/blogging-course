@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Замените на реальный адрес сайта после публикации:
+# Sitemap: https://ВАШ-USERNAME.github.io/ИМЯ-РЕПОЗИТОРИЯ/sitemap.xml
